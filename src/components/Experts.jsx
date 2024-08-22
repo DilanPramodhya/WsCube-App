@@ -8,7 +8,7 @@ export default function Experts() {
         <img src={image} alt="" />
       </div>
       <div className="col-span-1 flex flex-col justify-center">
-        <h1 className="text-violet-600 font-bold mt-4">Learn Fron Experts</h1>
+        <h1 className="text-violet-600 font-bold mt-4">Learn From Experts</h1>
         <p className="my-2 text-justify">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae magnam
           reiciendis laborum quisquam explicabo sapiente porro possimus ab
